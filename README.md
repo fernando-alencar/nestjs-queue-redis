@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Projeto exemplo com nestjs + nestjs-bull + redis para gerenciamento de filas idempotente
 
 ## Installation
 
