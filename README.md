@@ -35,14 +35,13 @@ $ yarn install
 ## Running the app
 
 ```bash
-# development
-$ yarn run start
+
+# start redis
+docker-compose up -d 
 
 # watch mode
 $ yarn run start:dev
 
-# production mode
-$ yarn run start:prod
 ```
 
 ## Test
